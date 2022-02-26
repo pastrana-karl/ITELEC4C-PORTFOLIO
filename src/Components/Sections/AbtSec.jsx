@@ -5,7 +5,7 @@ import './Sections.css';
 function AbtSec(props) {
   return (
     <div>
-      <div className = "abt-banner">
+      <div className = "abt-banner" id = "home">
         <div className = "banner-txt">
           <h2>Hi I'm Karl Anjelo D. Pastrana</h2>
           <h4>a mobile and web application developer.</h4>

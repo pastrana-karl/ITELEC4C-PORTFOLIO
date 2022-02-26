@@ -7,7 +7,7 @@ function NavBar() {
     <>
         <Navbar className = "nav-bg" collapseOnSelect fixed = "top" expand = "sm" bg = "dark" variant = "dark">
             <Container>
-                <Navbar.Brand href = "/my-portfolio">
+                <Navbar.Brand href = "#home">
                     <img
                         src = "https://res.cloudinary.com/karlstorage/image/upload/v1645085917/free-img/fjqyijp9mvokafli5zws.png"
                         width = "50"
