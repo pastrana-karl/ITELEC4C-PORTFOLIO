@@ -9,7 +9,7 @@ function App() {
     <Router>
       <NavBar />
       <Routes>
-        <Route exact path = '/pastrana-karl/my-portfolio' element = {<Home/>} />
+        <Route exact path = '/my-portfolio' element = {<Home/>} />
       </Routes>
       <FootBar />
     </Router>
