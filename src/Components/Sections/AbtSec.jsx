@@ -17,11 +17,10 @@ function AbtSec(props) {
           <h3>ABOUT ME</h3>
           <img src = {props.abtPic} alt = "about-img" />
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque porttitor feugiat sapien, in malesuada dolor molestie at. 
-            Curabitur imperdiet laoreet dui vel maximus. Cras pulvinar libero sit amet dui fringilla pharetra. 
-            Maecenas nisi diam, sodales et bibendum ac, placerat sit amet lorem. Integer euismod nec erat nec tincidunt. 
-            Nullam sit amet mauris congue, consequat mi vitae, rhoncus ligula. Ut ac odio turpis. Ut ac nisl orci. Vivamus tincidunt sem non mauris dapibus consequat. 
-            Praesent pellentesque, sem eget vestibulum porta, augue quam scelerisque erat, a porta lorem ex eu mauris.
+            I am a highly motivated and dedicated Information Technology student at the University of Santo Tomas. 
+            Throughout my academic years, I have been taught by various professionals in the field of Technology and have been exposed to various development tools.
+            That being said, I have gained experience in mobile and web development. 
+            Furthermore, being exposed to various development teams in doing projects I also learned to be more collaborative with others and easy to go along with.
           </p>
         </div>
       </Container>

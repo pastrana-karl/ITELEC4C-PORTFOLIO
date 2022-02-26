@@ -14,11 +14,12 @@ function ExpSec(props) {
                             <div className = "proj-text">
                                 <h3>SmartCTzen Portal Project</h3>
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque porttitor feugiat sapien, in malesuada dolor molestie at. 
-                                    Curabitur imperdiet laoreet dui vel maximus. Cras pulvinar libero sit amet dui fringilla pharetra. 
-                                    Maecenas nisi diam, sodales et bibendum ac, placerat sit amet lorem. Integer euismod nec erat nec tincidunt. 
-                                    Nullam sit amet mauris congue, consequat mi vitae, rhoncus ligula. Ut ac odio turpis. Ut ac nisl orci. Vivamus tincidunt sem non mauris dapibus consequat. 
-                                    Praesent pellentesque, sem eget vestibulum porta, augue quam scelerisque erat, a porta lorem ex eu mauris.
+                                    SmartCTzen Portal aims to help an Non-Government Organization (NGO) called SmartCT to provide participatory portal to their partner LGUs and municipalities. 
+                                    As a result, this portal provides a platform for citizens to report incidents in their locality to their LGU. 
+                                    Furthermore, provides a platform where citizens can post their suggestions in solving problems in their locality to their LGU. 
+                                    Lastly, a platform where LGU can post updates of events, project status, and announcements to inform their citizens.
+                                    <br/><br/>
+                                    Tools used for development: Mongo Db, Express, React Js, and Node Js (MERN Stack)
                                 </p>
                             </div>
                         </div>
@@ -34,11 +35,12 @@ function ExpSec(props) {
                         <div className = "proj-text">
                             <h3>SmartCTzen Portal Project</h3>
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque porttitor feugiat sapien, in malesuada dolor molestie at. 
-                                Curabitur imperdiet laoreet dui vel maximus. Cras pulvinar libero sit amet dui fringilla pharetra. 
-                                Maecenas nisi diam, sodales et bibendum ac, placerat sit amet lorem. Integer euismod nec erat nec tincidunt. 
-                                Nullam sit amet mauris congue, consequat mi vitae, rhoncus ligula. Ut ac odio turpis. Ut ac nisl orci. Vivamus tincidunt sem non mauris dapibus consequat. 
-                                Praesent pellentesque, sem eget vestibulum porta, augue quam scelerisque erat, a porta lorem ex eu mauris.
+                                SmartCTzen Portal aims to help an Non-Government Organization (NGO) called SmartCT to provide participatory portal to their partner LGUs and municipalities. 
+                                As a result, this portal provides a platform for citizens to report incidents in their locality to their LGU. 
+                                Furthermore, provides a platform where citizens can post their suggestions in solving problems in their locality to their LGU. 
+                                Lastly, a platform where LGU can post updates of events, project status, and announcements to inform their citizens.
+                                <br/><br/>
+                                Tools used for development: Mongo Db, Express, React Js, and Node Js (MERN Stack)
                             </p>
                         </div>
                     </div>
@@ -50,11 +52,12 @@ function ExpSec(props) {
                             <div className = "proj-text">
                                 <h3>E-commerce Ordering System Project</h3>
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque porttitor feugiat sapien, in malesuada dolor molestie at. 
-                                    Curabitur imperdiet laoreet dui vel maximus. Cras pulvinar libero sit amet dui fringilla pharetra. 
-                                    Maecenas nisi diam, sodales et bibendum ac, placerat sit amet lorem. Integer euismod nec erat nec tincidunt. 
-                                    Nullam sit amet mauris congue, consequat mi vitae, rhoncus ligula. Ut ac odio turpis. Ut ac nisl orci. Vivamus tincidunt sem non mauris dapibus consequat. 
-                                    Praesent pellentesque, sem eget vestibulum porta, augue quam scelerisque erat, a porta lorem ex eu mauris.
+                                    E-Commerce Ordering System aims to help brick and mortar merchants to migrate their store on the web and have their own online Identity. 
+                                    As a result, this web based ordering system provides a platform where merchants can share their products to their customers and manage it. 
+                                    Furthermore, it provides a platform where customers can place orders and merchants can manage and update the customer on their order status. 
+                                    Lastly, a platform where customers can leave their comments or reviews to the merchant's products and services.
+                                    <br/><br/>
+                                    Tools used for development: PHP and MySQL
                                 </p>
                             </div>
                         </div>
@@ -70,11 +73,12 @@ function ExpSec(props) {
                         <div className = "proj-text">
                             <h3>E-commerce Ordering System Project</h3>
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque porttitor feugiat sapien, in malesuada dolor molestie at. 
-                                Curabitur imperdiet laoreet dui vel maximus. Cras pulvinar libero sit amet dui fringilla pharetra. 
-                                Maecenas nisi diam, sodales et bibendum ac, placerat sit amet lorem. Integer euismod nec erat nec tincidunt. 
-                                Nullam sit amet mauris congue, consequat mi vitae, rhoncus ligula. Ut ac odio turpis. Ut ac nisl orci. Vivamus tincidunt sem non mauris dapibus consequat. 
-                                Praesent pellentesque, sem eget vestibulum porta, augue quam scelerisque erat, a porta lorem ex eu mauris.
+                                E-Commerce Ordering System aims to help brick and mortar merchants to migrate their store on the web and have their own online Identity. 
+                                As a result, this web based ordering system provides a platform where merchants can share their products to their customers and manage it. 
+                                Furthermore, it provides a platform where customers can place orders and merchants can manage and update the customer on their order status. 
+                                Lastly, a platform where customers can leave their comments or reviews to the merchant's products and services.
+                                <br/><br/>
+                                Tools used for development: PHP and MySQL
                             </p>
                         </div>
                     </div>
@@ -83,11 +87,10 @@ function ExpSec(props) {
                 <div className = "work-exp">
                     <img src = {props.work1} alt = "work-icon" />
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque porttitor feugiat sapien, in malesuada dolor molestie at. 
-                        Curabitur imperdiet laoreet dui vel maximus. Cras pulvinar libero sit amet dui fringilla pharetra. 
-                        Maecenas nisi diam, sodales et bibendum ac, placerat sit amet lorem. Integer euismod nec erat nec tincidunt. 
-                        Nullam sit amet mauris congue, consequat mi vitae, rhoncus ligula. Ut ac odio turpis. Ut ac nisl orci. Vivamus tincidunt sem non mauris dapibus consequat. 
-                        Praesent pellentesque, sem eget vestibulum porta, augue quam scelerisque erat, a porta lorem ex eu mauris.
+                        Being one of the upcoming IT professional, I know that I won't learn everything in college thus, I applied an internship for Accenture, Inc. 
+                        I have been engage in different groups of people learning from them and my own practical experience during my internship. 
+                        In Accenture, I've been given the chance to be part of a group that handles IT service management for their various clients. 
+                        Lastly, I have been given the chance to maintain and enhance platforms to ensure the quality of service of the IT service management. 
                     </p>
                 </div>
             </div>

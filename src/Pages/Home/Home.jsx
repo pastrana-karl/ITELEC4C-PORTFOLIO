@@ -18,7 +18,7 @@ function Home() {
       />
       <Certificates 
         cert1 = "https://res.cloudinary.com/karlstorage/image/upload/v1645404453/free-img/r9mebfwdmmb4xdcn9ow4.jpg"
-        cert2 = "https://res.cloudinary.com/karlstorage/image/upload/v1645404453/free-img/r9mebfwdmmb4xdcn9ow4.jpg"
+        cert2 = "https://res.cloudinary.com/karlstorage/image/upload/v1645873741/free-img/g7cvqkhkoziqswygck73.png"
       />
       <Seminars sem1 = "https://res.cloudinary.com/karlstorage/image/upload/v1645405411/free-img/ru0d7zebdpqvdbzqrpcl.png" />
     </div>
