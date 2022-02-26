@@ -1,0 +1,325 @@
+/* css for about section */
+
+.abt-banner {
+    height: 400px;
+    background-image: url("https://res.cloudinary.com/karlstorage/image/upload/v1645255556/free-img/jempzbfm1dtqf49yuur7.jpg");
+    background-position: top;
+    background-size: cover;
+    margin-top: 3%;
+}
+
+.banner-txt {
+    align-items: center;
+    padding-top: 11%;
+}
+
+.abt-banner h2, h4 {
+    text-align: center;
+    color: #FFFBFB;
+    font-weight: bolder;
+    text-shadow: 1px 1px 2px black;
+}
+
+.abt-main {
+    margin-top: 5%;
+    text-align: center;
+}
+
+.abt-main h3 {
+    font-weight: bolder;
+}
+
+.abt-main p {
+    margin-top: 5%;
+    padding: 2%;
+    text-align: justify;
+}
+
+.abt-main img {
+    width: 50%;
+    height: 40%;
+}
+
+/* end */
+
+/* css for education section */
+
+.educ-main {
+    margin-top: 5%;
+    text-align: center;
+}
+
+.educ-main h3 {
+    font-weight: bolder;
+}
+
+.educ-main img {
+    width: 50%;
+    height: 40%;
+}
+
+.educ-hist {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 40px;
+    margin-top: 5%;
+}
+
+.educ-hist h5 {
+    font-weight: bolder;
+}
+
+/* end */
+
+/* css for experience section */
+
+.exp-main {
+    margin-top: 5%;
+    text-align: center;
+}
+
+.exp-main h3 {
+    font-weight: bolder;
+}
+
+.proj-banner-dskt img {
+    margin-top: 5%;
+    width: 90%;
+    height: 80%;
+    border-radius: 10px;
+}
+
+.proj-desc {
+    position: relative;
+}
+
+.proj-text {
+    position: absolute;
+    right: 0;
+    left: 0;
+    margin-top: 12%;
+    padding: 10%;
+    color: #FFFBFB;
+    text-shadow: 1px 1px 2px black;
+}
+
+.proj-banner-mbl {
+    display: none;
+}
+
+.work-exp {
+    margin-top: 5%;
+}
+
+.work-exp img {
+    width: 30%;
+    height: 30%;
+}
+
+.work-exp p {
+    margin-top: 3%;
+    text-align: justify;
+}
+
+/* end */
+
+/* css for certificates section */
+
+.cert-main {
+    margin-top: 5%;
+    text-align: center;
+}
+
+.cert-main h3 {
+    font-weight: bolder;
+}
+
+.cert-disp {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 40px;
+    margin-top: 2%;
+}
+
+.cert-disp img {
+    width: 20%;
+    height: 20%;
+}
+
+/* end */
+
+/* css for seminars section */
+
+.sem-main {
+    margin-top: 5%;
+    text-align: center;
+}
+
+.sem-main h3 {
+    font-weight: bolder;
+}
+
+.sem-banner {
+    margin-top: 5%;
+}
+
+.sem-banner img {
+    width: 50%;
+    height: 50%;
+    border-radius: 10px;
+}
+
+/* end */
+
+@media only screen and (max-width: 900px) {
+    /* css for about section */
+
+    .abt-banner {
+        height: 250px;
+        margin-top: 10%;
+    }
+
+    /* end */
+
+    /* css for education section */
+
+    .educ-main img {
+        width: 60%;
+        height: 50%;
+    }
+
+    .educ-hist {
+        gap: 0px;
+    }
+
+    /* end */
+
+    /* css for experience section */
+
+    .proj-banner-dskt {
+        display: none;
+    }
+
+    .proj-banner-mbl {
+        display: block;
+    }
+
+    .proj-banner-mbl img {
+        width: 90%;
+        height: 80%;
+        border-radius: 20px;
+        margin-top: 5%;
+    }
+
+    .proj-desc {
+        position: initial;
+    }
+    
+    .proj-text {
+        position: initial;
+        margin-top: 0;
+        padding: 5%;
+        color: black;
+        text-shadow: none;
+    }
+
+    .proj-text P {
+        text-align: justify;
+    }
+
+    /* end */
+
+    /* css for certificates section */
+
+    .cert-disp img {
+        width: 30%;
+        height: 30%;
+    }
+
+    /* end */
+
+    /* css for seminars section */
+
+    .sem-banner img {
+        width: 70%;
+        height: 70%;
+    }
+
+    /* end */
+}
+
+@media only screen and (max-width: 500px) {
+    /* css for about section */
+
+    .abt-banner {
+        height: 150px;
+        margin-top: 20%;
+    }
+
+    .abt-banner h2 {
+        font-size: 24px;
+    }
+
+    .abt-banner h4 {
+        font-size: 15px;
+    }
+
+    .abt-main img {
+        width: 80%;
+        height: 70%;
+    }
+
+    /* end */
+
+    /* css for education section */
+
+    .educ-main img {
+        width: 80%;
+        height: 70%;
+    }
+
+    /* end */
+
+    /* css for experience section */
+
+    .proj-banner-mbl img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .proj-text {
+        padding: 2%;
+        margin-top: 2%;
+    }
+
+    .work-exp img {
+        width: 50%;
+        height: 50%;
+    }
+    
+    .work-exp p {
+        padding: 2%;
+    }
+
+    /* end */
+
+    /* css for certificates section */
+
+    .cert-disp img {
+        width: 50%;
+        height: 50%;
+    }
+
+    /* end */
+
+    /* css for seminars section */
+
+    .sem-banner img {
+        width: 100%;
+        height: 100%;
+    }
+
+    /* end */
+}
