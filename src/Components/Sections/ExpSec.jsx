@@ -93,6 +93,26 @@ function ExpSec(props) {
                         Lastly, I have been given the chance to maintain and enhance platforms to ensure the quality of service of the IT service management. 
                     </p>
                 </div>
+                
+                <div className = "tools-sec">
+                    <h3>TOOLS I USE</h3>
+                    <div className = "tool-disp">
+                        <img src = {props.reactjs} alt = "tool-icon" />
+                        <img src = {props.js} alt = "tool-icon" />
+                    </div>
+                    <div className = "tool-disp">
+                        <img src = {props.mongo} alt = "tool-icon" />
+                        <img src = {props.mysql} alt = "tool-icon" />
+                    </div>
+                    <div className = "tool-disp">
+                        <img src = {props.php} alt = "tool-icon" />
+                        <img src = {props.node} alt = "tool-icon" />
+                    </div>
+                    <div className = "tool-disp">
+                        <img src = {props.java} alt = "tool-icon" />
+                        <img src = {props.python} alt = "tool-icon" />
+                    </div>
+                </div>
             </div>
         </Container>
     </>

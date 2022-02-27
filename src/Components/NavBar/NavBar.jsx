@@ -24,6 +24,7 @@ function NavBar() {
                         <Nav.Link href = "#experience">Experience</Nav.Link>
                         <Nav.Link href = "#certificates">Certificates</Nav.Link>
                         <Nav.Link href = "#seminars">Seminars</Nav.Link>
+                        <Nav.Link href = "#contact">Contact Me</Nav.Link>
                     </Nav>
                 </Navbar.Collapse>
             </Container>

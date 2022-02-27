@@ -122,6 +122,28 @@
     text-align: justify;
 }
 
+.tools-sec {
+    margin-top: 5%;
+    text-align: center;
+}
+
+.tools-sec h3 {
+    font-weight: bolder;
+}
+
+.tool-disp {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 90px;
+    margin-top: 2%;
+}
+
+.tool-disp img {
+    width: 10%;
+    height: 10%;
+}
+
 /* end */
 
 /* css for certificates section */
@@ -172,6 +194,43 @@
 }
 
 /* end */
+
+/* css for contact me section */
+.cont-main {
+    margin-top: 5%;
+    text-align: center;
+}
+
+.cont-main h3 {
+    font-weight: bolder;
+    margin-bottom: 5%;
+}
+
+.info-order {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 90px;
+}
+
+.cont-info {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.link-logo {
+    margin-top: 5%;
+}
+
+.link-logo img {
+    width: 10%;
+    height: 10%;
+}
+
+/* end */
+
 
 @media only screen and (max-width: 900px) {
     /* css for about section */
@@ -229,6 +288,19 @@
         text-align: justify;
     }
 
+    .tools-sec {
+        margin-bottom: 10%;
+    }
+
+    .tools-sec h3 {
+        margin-bottom: 10%;
+    }
+
+    .tool-disp img {
+        width: 25%;
+        height: 25%;
+    }
+
     /* end */
 
     /* css for certificates section */
@@ -253,6 +325,10 @@
 @media only screen and (max-width: 500px) {
     /* css for about section */
 
+    .abt-main {
+        margin-bottom: 20%;
+    }
+
     .abt-banner {
         height: 150px;
         margin-top: 20%;
@@ -275,6 +351,10 @@
 
     /* css for education section */
 
+    .educ-main {
+        margin-bottom: 20%;
+    }
+
     .educ-main img {
         width: 80%;
         height: 70%;
@@ -283,6 +363,8 @@
     /* end */
 
     /* css for experience section */
+
+    
 
     .proj-banner-mbl img {
         width: 100%;
@@ -303,9 +385,21 @@
         padding: 2%;
     }
 
+    .tools-sec {
+        margin-bottom: 25%;
+    }
+
+    .tool-disp {
+        gap: 20%
+    }
+
     /* end */
 
     /* css for certificates section */
+
+    .cert-main {
+        margin-bottom: 20%;
+    }
 
     .cert-disp img {
         width: 50%;
@@ -316,9 +410,21 @@
 
     /* css for seminars section */
 
+    .sem-main {
+        margin-bottom: 20%;
+    }
+
     .sem-banner img {
         width: 100%;
         height: 100%;
+    }
+
+    /* end */
+
+    /* css for contact section */
+
+    .info-order {
+        gap: 15px;
     }
 
     /* end */
